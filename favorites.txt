@@ -1,3 +1,6 @@
 hotdog
 sushi
 chicken wings
+monster
+alien
+titanic
